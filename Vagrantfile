@@ -1,5 +1,4 @@
 Vagrant.configure('2') do |config|
-
   config.vm.define 'app1' do |app1|
     app1.vm.box = 'app1'
     app1.vm.box = 'centos/7'
