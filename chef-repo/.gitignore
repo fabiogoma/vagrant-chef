@@ -1,14 +1,6 @@
-# Packages
-*.rpm
-
-# Vagrant
-.vagrant
-
 # Chef
-chef-repo/.chef/
-chef-repo/.chef/*.pem
-chef-repo/.chef/encrypted_data_bag_secret
-chef-starter.zip
+.chef/*.pem
+.chef/encrypted_data_bag_secret
 
 # Ruby
 .rake_test_cache

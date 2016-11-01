@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: docker-manager
+# Cookbook Name:: docker_manager
 # Recipe:: default
 #
 # Copyright 2016, YOUR_COMPANY_NAME

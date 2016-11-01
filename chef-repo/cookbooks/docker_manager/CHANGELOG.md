@@ -1,9 +1,9 @@
-# docker-manager CHANGELOG
+# docker_manager CHANGELOG
 
-This file is used to list changes made in each version of the docker-manager cookbook.
+This file is used to list changes made in each version of the docker_manager cookbook.
 
 ## 0.1.0
-- [your_name] - Initial release of docker-manager
+- [your_name] - Initial release of docker_manager
 
 - - -
 Check the [Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax) for help with Markdown.

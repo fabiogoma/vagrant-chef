@@ -1,4 +1,4 @@
-# docker-manager Cookbook
+# docker_manager Cookbook
 
 TODO: Enter the cookbook description here.
 
@@ -20,14 +20,14 @@ e.g.
 
 ### Cookbooks
 
-- `toaster` - docker-manager needs toaster to brown your bagel.
+- `toaster` - docker_manager needs toaster to brown your bagel.
 
 ## Attributes
 
 TODO: List your cookbook attributes here.
 
 e.g.
-### docker-manager::default
+### docker_manager::default
 
 <table>
   <tr>
@@ -37,7 +37,7 @@ e.g.
     <th>Default</th>
   </tr>
   <tr>
-    <td><tt>['docker-manager']['bacon']</tt></td>
+    <td><tt>['docker_manager']['bacon']</tt></td>
     <td>Boolean</td>
     <td>whether to include bacon</td>
     <td><tt>true</tt></td>
@@ -46,18 +46,18 @@ e.g.
 
 ## Usage
 
-### docker-manager::default
+### docker_manager::default
 
 TODO: Write usage instructions for each cookbook.
 
 e.g.
-Just include `docker-manager` in your node's `run_list`:
+Just include `docker_manager` in your node's `run_list`:
 
 ```json
 {
   "name":"my_node",
   "run_list": [
-    "recipe[docker-manager]"
+    "recipe[docker_manager]"
   ]
 }
 ```
